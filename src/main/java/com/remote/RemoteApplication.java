@@ -10,6 +10,7 @@ public class RemoteApplication {
 		int x = 150;
 		int y = 200;
 		int z= 300;
+		int z= 500;
 		SpringApplication.run(RemoteApplication.class, args);
 	}
 

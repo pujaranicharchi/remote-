@@ -7,6 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RemoteApplication {
 
 	public static void main(String[] args) {
+		int x = 150;
+		int y = 200;
+		int z= 300;
+		int z= 500;
+		int z = 400;
 		SpringApplication.run(RemoteApplication.class, args);
 	}
 
